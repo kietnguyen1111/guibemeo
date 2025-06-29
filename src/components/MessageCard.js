@@ -181,12 +181,12 @@ const CustomHeart = ({ color }) => (
 );
 
 const messages = [
-    "Gửi đến người phụ nữ tuyệt vời nhất trong cuộc đời anh, em mang đến niềm vui và hạnh phúc cho mỗi ngày.",
-    "Nụ cười của em thắp sáng thế giới của anh, và tình yêu của em lấp đầy trái tim anh bằng sự ấm áp.",
-    "Vào ngày đặc biệt này, anh muốn em biết em có ý nghĩa như thế nào đối với anh.",
-    "Em không chỉ là bạn gái của anh, em là bạn thân nhất của anh, là người bạn tâm giao và là tất cả của anh.",
-    "Anh trân trọng từng khoảnh khắc chúng ta bên nhau, và anh mong muốn tạo ra nhiều kỷ niệm đẹp hơn nữa.",
-    "Tình yêu của anh! Em xứng đáng có được tất cả hạnh phúc trên thế giới này."
+    "Chị quý em nhiều lắmm. Chúc em chân cứng đá mềm, cầu được ước thấy và gặp nhiều người tốt như em trên hành trình sắp tới. Mong emm sẽ luôn tươi cười, vui vẻ, lạc quan và nhất định phải thật hạnh phúc nhéee. ",
+    "Mỗi ngày là một món quà, và em chính là món quà của chị. Cảm ơn em đã ở bên cạnh động viên chị và chia sẻ cho chị biết nhiều kiến thức mới. Những lời em dặn dò đã được chị phát huy công dụng tối đa trong lúc làm bài thi đó ạa hihi. Em đúng chất là một người inspirer luônn hẹ hẹ. ",
+    "Với chị, con người em đã tốt rùi, nhưng sẽ không tránh khỏi vấp ngã khiến em hoài nghi về chính mình. Những lúc như vậy, chị hi vọng em sẽ tiếp tục đứng dậy và chiến đấu tiếp. Yee >v< chị từng nghe nói rằng những điều mình muốn gửi gắm đến người khác chính là những lời mình muốn nhắn với chính bản thân mình. ",
+    "Vì thế nên chị mong em có thể truyền cảm hứng, tự inspire cho chính em như cách em truyền động lực cho mọi người xung quanhh vậy. Với lại, mi bớt cứng đầu lại dùmm. ",
+    "Life can be heavy, especially if you try to carry it all at once. Part of growing up and moving into new chapters of your life is about catch and release. Decide what is yours to hold and let the rest go. Oftentimes the good things in your life are lighter anyway, so there’s more room for them. ",
+    "Hai câu nói của Taylor Swift mà teo tâm đắc trong bài phát biểu tại lễ tốt nghiệp là: "Never be ashamed of trying. Effortlessness is a myth." Rồi mọi chuyện sẽ ổn và mi sẽ gặp được những người muốn gặp và đến những nơi mi muốn đến. Đích đến cuối cùng là bình yên trong tâm hồn mà hihi, vậy nên cố lên nhaa."
 ];
 
 // Then update the MessageCard component to accept and pass the prop:
